@@ -1,0 +1,242 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/Images/Flags/Flag of Afghanistan.png</file>
+        <file>Resources/Images/Flags/Flag of Albania.png</file>
+        <file>Resources/Images/Flags/Flag of Algeria.png</file>
+        <file>Resources/Images/Flags/Flag of American Samoa.png</file>
+        <file>Resources/Images/Flags/Flag of Andorra.png</file>
+        <file>Resources/Images/Flags/Flag of Angola.png</file>
+        <file>Resources/Images/Flags/Flag of Anguilla.png</file>
+        <file>Resources/Images/Flags/Flag of Antigua and Barbuda.png</file>
+        <file>Resources/Images/Flags/Flag of Argentina.png</file>
+        <file>Resources/Images/Flags/Flag of Armenia.png</file>
+        <file>Resources/Images/Flags/Flag of Aruba.png</file>
+        <file>Resources/Images/Flags/Flag of Australia.png</file>
+        <file>Resources/Images/Flags/Flag of Austria.png</file>
+        <file>Resources/Images/Flags/Flag of Azerbaijan.png</file>
+        <file>Resources/Images/Flags/Flag of Bahrain.png</file>
+        <file>Resources/Images/Flags/Flag of Bangladesh.png</file>
+        <file>Resources/Images/Flags/Flag of Barbados.png</file>
+        <file>Resources/Images/Flags/Flag of Belarus.png</file>
+        <file>Resources/Images/Flags/Flag of Belgium.png</file>
+        <file>Resources/Images/Flags/Flag of Belize.png</file>
+        <file>Resources/Images/Flags/Flag of Benin.png</file>
+        <file>Resources/Images/Flags/Flag of Bermuda.png</file>
+        <file>Resources/Images/Flags/Flag of Bhutan.png</file>
+        <file>Resources/Images/Flags/Flag of Bolivia.png</file>
+        <file>Resources/Images/Flags/Flag of Bosnia and Herzegovina.png</file>
+        <file>Resources/Images/Flags/Flag of Bostswana.png</file>
+        <file>Resources/Images/Flags/Flag of Bouvet Island.png</file>
+        <file>Resources/Images/Flags/Flag of Brazil.png</file>
+        <file>Resources/Images/Flags/Flag of British Indian Ocean Territory.png</file>
+        <file>Resources/Images/Flags/Flag of British Virgin Islands.png</file>
+        <file>Resources/Images/Flags/Flag of Brunei.png</file>
+        <file>Resources/Images/Flags/Flag of Bulgaria.png</file>
+        <file>Resources/Images/Flags/Flag of Burkina Faso.png</file>
+        <file>Resources/Images/Flags/Flag of Burma (Myanmar).png</file>
+        <file>Resources/Images/Flags/Flag of Burundi.png</file>
+        <file>Resources/Images/Flags/Flag of Cambodia.png</file>
+        <file>Resources/Images/Flags/Flag of Cameroon.png</file>
+        <file>Resources/Images/Flags/Flag of Canada.png</file>
+        <file>Resources/Images/Flags/Flag of Cape Verde.png</file>
+        <file>Resources/Images/Flags/Flag of Cayman Islands.png</file>
+        <file>Resources/Images/Flags/Flag of Central African Republic.png</file>
+        <file>Resources/Images/Flags/Flag of Chad.png</file>
+        <file>Resources/Images/Flags/Flag of Chile.png</file>
+        <file>Resources/Images/Flags/Flag of China.png</file>
+        <file>Resources/Images/Flags/Flag of Christmas Islands.png</file>
+        <file>Resources/Images/Flags/Flag of Cocos (Keeling) Islands.png</file>
+        <file>Resources/Images/Flags/Flag of Colombia.png</file>
+        <file>Resources/Images/Flags/Flag of Comoros.png</file>
+        <file>Resources/Images/Flags/Flag of Cook Islands.png</file>
+        <file>Resources/Images/Flags/Flag of Costa Rica.png</file>
+        <file>Resources/Images/Flags/Flag of Cote d'Ivoire.png</file>
+        <file>Resources/Images/Flags/Flag of Croatia.png</file>
+        <file>Resources/Images/Flags/Flag of Cuba.png</file>
+        <file>Resources/Images/Flags/Flag of Cyprus.png</file>
+        <file>Resources/Images/Flags/Flag of Czech Republic.png</file>
+        <file>Resources/Images/Flags/Flag of Democratic Republic of the Congo.png</file>
+        <file>Resources/Images/Flags/Flag of Denmark.png</file>
+        <file>Resources/Images/Flags/Flag of Djibouti.png</file>
+        <file>Resources/Images/Flags/Flag of Dominica.png</file>
+        <file>Resources/Images/Flags/Flag of Dominican Republic.png</file>
+        <file>Resources/Images/Flags/Flag of Ecuador.png</file>
+        <file>Resources/Images/Flags/Flag of Egypt.png</file>
+        <file>Resources/Images/Flags/Flag of El Salvador.png</file>
+        <file>Resources/Images/Flags/Flag of England.png</file>
+        <file>Resources/Images/Flags/Flag of Equatorial Guinea.png</file>
+        <file>Resources/Images/Flags/Flag of Eritrea.png</file>
+        <file>Resources/Images/Flags/Flag of Estonia.png</file>
+        <file>Resources/Images/Flags/Flag of Ethiopia.png</file>
+        <file>Resources/Images/Flags/Flag of European Union.png</file>
+        <file>Resources/Images/Flags/Flag of Falkland Islands (Islas Malvinas).png</file>
+        <file>Resources/Images/Flags/Flag of Faroe Islands.png</file>
+        <file>Resources/Images/Flags/Flag of Fiji.png</file>
+        <file>Resources/Images/Flags/Flag of Finland.png</file>
+        <file>Resources/Images/Flags/Flag of France.png</file>
+        <file>Resources/Images/Flags/Flag of French Poynesia.png</file>
+        <file>Resources/Images/Flags/Flag of Gabon.png</file>
+        <file>Resources/Images/Flags/Flag of Georgia.png</file>
+        <file>Resources/Images/Flags/Flag of Germany.png</file>
+        <file>Resources/Images/Flags/Flag of Ghana.png</file>
+        <file>Resources/Images/Flags/Flag of Gibraltar.png</file>
+        <file>Resources/Images/Flags/Flag of Greece.png</file>
+        <file>Resources/Images/Flags/Flag of Greenland.png</file>
+        <file>Resources/Images/Flags/Flag of Grenada.png</file>
+        <file>Resources/Images/Flags/Flag of Guam.png</file>
+        <file>Resources/Images/Flags/Flag of Guatemala.png</file>
+        <file>Resources/Images/Flags/Flag of Guernsey.png</file>
+        <file>Resources/Images/Flags/Flag of Guinea Blissau.png</file>
+        <file>Resources/Images/Flags/Flag of Guinea.png</file>
+        <file>Resources/Images/Flags/Flag of Guyana.png</file>
+        <file>Resources/Images/Flags/Flag of Haiti.png</file>
+        <file>Resources/Images/Flags/Flag of Holy See (Vatican City).png</file>
+        <file>Resources/Images/Flags/Flag of Honduras.png</file>
+        <file>Resources/Images/Flags/Flag of Hong Kong.png</file>
+        <file>Resources/Images/Flags/Flag of Hungary.png</file>
+        <file>Resources/Images/Flags/Flag of Iceland.png</file>
+        <file>Resources/Images/Flags/Flag of India.png</file>
+        <file>Resources/Images/Flags/Flag of Indonesia.png</file>
+        <file>Resources/Images/Flags/Flag of Iran.png</file>
+        <file>Resources/Images/Flags/Flag of Iraq.png</file>
+        <file>Resources/Images/Flags/Flag of Ireland.png</file>
+        <file>Resources/Images/Flags/Flag of Isle of Man.png</file>
+        <file>Resources/Images/Flags/Flag of Israel.png</file>
+        <file>Resources/Images/Flags/Flag of Italy.png</file>
+        <file>Resources/Images/Flags/Flag of Jamaica.png</file>
+        <file>Resources/Images/Flags/Flag of Japan.png</file>
+        <file>Resources/Images/Flags/Flag of Jordan.png</file>
+        <file>Resources/Images/Flags/Flag of Kazahstan.png</file>
+        <file>Resources/Images/Flags/Flag of Kenya.png</file>
+        <file>Resources/Images/Flags/Flag of Kiribati.png</file>
+        <file>Resources/Images/Flags/Flag of Kosovo.png</file>
+        <file>Resources/Images/Flags/Flag of Kurdistan Nation.png</file>
+        <file>Resources/Images/Flags/Flag of Kuwait.png</file>
+        <file>Resources/Images/Flags/Flag of Kyrgyzstan.png</file>
+        <file>Resources/Images/Flags/Flag of Laos.png</file>
+        <file>Resources/Images/Flags/Flag of Latvia.png</file>
+        <file>Resources/Images/Flags/Flag of Lebanon.png</file>
+        <file>Resources/Images/Flags/Flag of Lesotho.png</file>
+        <file>Resources/Images/Flags/Flag of Liberia.png</file>
+        <file>Resources/Images/Flags/Flag of Libya.png</file>
+        <file>Resources/Images/Flags/Flag of Liechtenstein.png</file>
+        <file>Resources/Images/Flags/Flag of Lithuania.png</file>
+        <file>Resources/Images/Flags/Flag of Luxembourg.png</file>
+        <file>Resources/Images/Flags/Flag of Macau.png</file>
+        <file>Resources/Images/Flags/Flag of Macedonia.png</file>
+        <file>Resources/Images/Flags/Flag of Madagascar.png</file>
+        <file>Resources/Images/Flags/Flag of Malawi.png</file>
+        <file>Resources/Images/Flags/Flag of Malaysia.png</file>
+        <file>Resources/Images/Flags/Flag of Maldives.png</file>
+        <file>Resources/Images/Flags/Flag of Mali.png</file>
+        <file>Resources/Images/Flags/Flag of Malta.png</file>
+        <file>Resources/Images/Flags/Flag of Marschal Islands.png</file>
+        <file>Resources/Images/Flags/Flag of Mauritania.png</file>
+        <file>Resources/Images/Flags/Flag of Mauritius.png</file>
+        <file>Resources/Images/Flags/Flag of Mayotte.png</file>
+        <file>Resources/Images/Flags/Flag of Mexico.png</file>
+        <file>Resources/Images/Flags/Flag of Micronesia.png</file>
+        <file>Resources/Images/Flags/Flag of Moldavia.png</file>
+        <file>Resources/Images/Flags/Flag of Monaco.png</file>
+        <file>Resources/Images/Flags/Flag of Mongolia.png</file>
+        <file>Resources/Images/Flags/Flag of Montenegro.png</file>
+        <file>Resources/Images/Flags/Flag of Montserrat.png</file>
+        <file>Resources/Images/Flags/Flag of Morocco.png</file>
+        <file>Resources/Images/Flags/Flag of Mozambique.png</file>
+        <file>Resources/Images/Flags/Flag of Namibia.png</file>
+        <file>Resources/Images/Flags/Flag of Nauru.png</file>
+        <file>Resources/Images/Flags/Flag of Nepal.png</file>
+        <file>Resources/Images/Flags/Flag of Netherlands Anthilles.png</file>
+        <file>Resources/Images/Flags/Flag of Netherlands.png</file>
+        <file>Resources/Images/Flags/Flag of New Zealand.png</file>
+        <file>Resources/Images/Flags/Flag of Nicaragua.png</file>
+        <file>Resources/Images/Flags/Flag of Niger.png</file>
+        <file>Resources/Images/Flags/Flag of Nigeria.png</file>
+        <file>Resources/Images/Flags/Flag of Niue.png</file>
+        <file>Resources/Images/Flags/Flag of Norfolk Island.png</file>
+        <file>Resources/Images/Flags/Flag of North Korea.png</file>
+        <file>Resources/Images/Flags/Flag of Northern Mariana Islands.png</file>
+        <file>Resources/Images/Flags/Flag of Norway.png</file>
+        <file>Resources/Images/Flags/Flag of Oman.png</file>
+        <file>Resources/Images/Flags/Flag of Pakistan.png</file>
+        <file>Resources/Images/Flags/Flag of Palau.png</file>
+        <file>Resources/Images/Flags/Flag of Palestine.png</file>
+        <file>Resources/Images/Flags/Flag of Panama.png</file>
+        <file>Resources/Images/Flags/Flag of Papua New Guinea.png</file>
+        <file>Resources/Images/Flags/Flag of Paraguay.png</file>
+        <file>Resources/Images/Flags/Flag of Peru.png</file>
+        <file>Resources/Images/Flags/Flag of Philippines.png</file>
+        <file>Resources/Images/Flags/Flag of Pitcairn Islands.png</file>
+        <file>Resources/Images/Flags/Flag of Poland.png</file>
+        <file>Resources/Images/Flags/Flag of Portugal.png</file>
+        <file>Resources/Images/Flags/Flag of Puerto Rico.png</file>
+        <file>Resources/Images/Flags/Flag of Quatar.png</file>
+        <file>Resources/Images/Flags/Flag of Republic of the Congo.png</file>
+        <file>Resources/Images/Flags/Flag of Romania.png</file>
+        <file>Resources/Images/Flags/Flag of Russia.png</file>
+        <file>Resources/Images/Flags/Flag of Rwanda.png</file>
+        <file>Resources/Images/Flags/Flag of Saint Helena.png</file>
+        <file>Resources/Images/Flags/Flag of Saint Kitts and Nevis.png</file>
+        <file>Resources/Images/Flags/Flag of Saint Lucia.png</file>
+        <file>Resources/Images/Flags/Flag of Saint Pierre and Miquelon.png</file>
+        <file>Resources/Images/Flags/Flag of Saint Vincent.png</file>
+        <file>Resources/Images/Flags/Flag of Samoa.png</file>
+        <file>Resources/Images/Flags/Flag of San Marino.png</file>
+        <file>Resources/Images/Flags/Flag of Sao Tome and Principe.png</file>
+        <file>Resources/Images/Flags/Flag of Saudi Arabia.png</file>
+        <file>Resources/Images/Flags/Flag of Scotland.png</file>
+        <file>Resources/Images/Flags/Flag of Senegal.png</file>
+        <file>Resources/Images/Flags/Flag of Serbia.png</file>
+        <file>Resources/Images/Flags/Flag of Seychelles.png</file>
+        <file>Resources/Images/Flags/Flag of Sierra Leone.png</file>
+        <file>Resources/Images/Flags/Flag of Singapore.png</file>
+        <file>Resources/Images/Flags/Flag of Slovakia.png</file>
+        <file>Resources/Images/Flags/Flag of Slovenia.png</file>
+        <file>Resources/Images/Flags/Flag of Solomon Islands.png</file>
+        <file>Resources/Images/Flags/Flag of Somalia.png</file>
+        <file>Resources/Images/Flags/Flag of South Africa.png</file>
+        <file>Resources/Images/Flags/Flag of South Georgia and the South Sandwitch Islands.png</file>
+        <file>Resources/Images/Flags/Flag of South Korea.png</file>
+        <file>Resources/Images/Flags/Flag of Spain.png</file>
+        <file>Resources/Images/Flags/Flag of Sri Lanka.png</file>
+        <file>Resources/Images/Flags/Flag of Sudan.png</file>
+        <file>Resources/Images/Flags/Flag of Suriname.png</file>
+        <file>Resources/Images/Flags/Flag of Swaziland.png</file>
+        <file>Resources/Images/Flags/Flag of Sweden.png</file>
+        <file>Resources/Images/Flags/Flag of Switzerland.png</file>
+        <file>Resources/Images/Flags/Flag of Syria.png</file>
+        <file>Resources/Images/Flags/Flag of Taiwan.png</file>
+        <file>Resources/Images/Flags/Flag of Tajikistan.png</file>
+        <file>Resources/Images/Flags/Flag of Tamil Nation.png</file>
+        <file>Resources/Images/Flags/Flag of Tanzania.png</file>
+        <file>Resources/Images/Flags/Flag of Thailand.png</file>
+        <file>Resources/Images/Flags/Flag of the Bahamas.png</file>
+        <file>Resources/Images/Flags/Flag of the Gambia.png</file>
+        <file>Resources/Images/Flags/Flag of Tibet.png</file>
+        <file>Resources/Images/Flags/Flag of Timor Leste.png</file>
+        <file>Resources/Images/Flags/Flag of Togo.png</file>
+        <file>Resources/Images/Flags/Flag of Tonga.png</file>
+        <file>Resources/Images/Flags/Flag of Trinidad and Tobago.png</file>
+        <file>Resources/Images/Flags/Flag of Tunisia.png</file>
+        <file>Resources/Images/Flags/Flag of Turkey.png</file>
+        <file>Resources/Images/Flags/Flag of Turkmenistan.png</file>
+        <file>Resources/Images/Flags/Flag of Turks and Caicos Islands.png</file>
+        <file>Resources/Images/Flags/Flag of Tuvalu.png</file>
+        <file>Resources/Images/Flags/Flag of Uganda.png</file>
+        <file>Resources/Images/Flags/Flag of Ukraine.png</file>
+        <file>Resources/Images/Flags/Flag of United Arab Emirates.png</file>
+        <file>Resources/Images/Flags/Flag of United Kingdom.png</file>
+        <file>Resources/Images/Flags/Flag of United States.png</file>
+        <file>Resources/Images/Flags/Flag of Uruguay.png</file>
+        <file>Resources/Images/Flags/Flag of Uzbekistan.png</file>
+        <file>Resources/Images/Flags/Flag of Vanuatu.png</file>
+        <file>Resources/Images/Flags/Flag of Venezuela.png</file>
+        <file>Resources/Images/Flags/Flag of Vietnam.png</file>
+        <file>Resources/Images/Flags/Flag of Virgin Islands.png</file>
+        <file>Resources/Images/Flags/Flag of Wales.png</file>
+        <file>Resources/Images/Flags/Flag of Wallis and Futuna.png</file>
+        <file>Resources/Images/Flags/Flag of Yemen.png</file>
+        <file>Resources/Images/Flags/Flag of Zambia.png</file>
+        <file>Resources/Images/Flags/Flag of Zimbabwe.png</file>
+    </qresource>
+</RCC>
